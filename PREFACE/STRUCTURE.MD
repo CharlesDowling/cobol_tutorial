@@ -12,26 +12,32 @@ CONFUSING, RIGHT?! ULTIMATELY DUE TO IT'S AGE, COBOL WAS DESIGNED OFF THE ENGLIS
 ----------------------------------------------------------
 
 PROGRAM:
+---
 * THE ACTUAL PROGRAM ITSELF. I.e. ALL OF THE CODE FILE (YOU KNOW THE ONE THAT ENDS IN .COB OR .CBL).
 
 ----------------------------------------------------------
 
 DIVSION:
+---
 * ONE OF FOUR DIVSIONS. THESE SECTIONS HAVE DIFFERENT PURPOSES DESCRIBED THROUGHOUT THE TUTORIAL.
 
 ----------------------------------------------------------
 
-SECTION
+SECTION:
+---
 
 ----------------------------------------------------------
 
-PARAGRAPHS
+PARAGRAPHS:
+---
 
 ----------------------------------------------------------
 
-SENTENCES
+SENTENCES:
+---
 
 ----------------------------------------------------------
 
-STATEMENTS
+STATEMENTS:
+---
 
