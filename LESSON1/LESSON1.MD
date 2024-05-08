@@ -21,7 +21,7 @@ HELLO WORLD
 
 -------------------------------------------------------------------
 
-THINGS COVERED IN THIS LESSON:
+CONCEPTS IN THIS LESSON:
 ---
 * DIVISIONS
 * PUNCTUATION
