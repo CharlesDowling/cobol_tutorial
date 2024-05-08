@@ -80,7 +80,14 @@ CORR
 CORRESPONDING
 COUNT
 CURRENCY
-DATA
+
+----------------------------------------------------------
+
+DATA:
+* THE NAME OF THE DIVSION THAT ASSIGNS VARIABLES ARE ACCESSES FILES
+* DATA DIVISION.
+----------------------------------------------------------
+
 DATE-COMPILED
 DATE-WRITTEN
 DAY
@@ -149,7 +156,15 @@ END-WRITE
 ENDING
 ENTER
 ENTRY
-ENVIRONMENT
+
+----------------------------------------------------------
+
+ENVIRONMENT:
+* THE NAME OF A DIVISION THAT DESCRIBES THE CONFIGURATION OF THE PROGRAM.
+* ENVIRONMENT DIVISION.
+
+----------------------------------------------------------
+
 EOP
 EQUAL
 ERROR
@@ -287,7 +302,15 @@ POINTER
 POSITION
 POSITIVE
 PRINTING
-PROCEDURE
+
+----------------------------------------------------------
+
+PROCEDURE:
+* THE NAME OF THE DIVISION WHERE CODE IS EXECUTED
+* PROCEDURE DIVISION.
+
+----------------------------------------------------------
+
 PROCEDURE-POINTER
 PROCEDURES
 PROCEED
