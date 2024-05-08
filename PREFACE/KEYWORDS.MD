@@ -84,7 +84,7 @@ CURRENCY
 ----------------------------------------------------------
 
 DATA:
-* THE NAME OF THE DIVSION THAT ASSIGNS VARIABLES ARE ACCESSES FILES
+* THE NAME OF THE DIVSION THAT ASSIGNS VARIABLES ARE ACCESSES FILES.
 * DATA DIVISION.
 ----------------------------------------------------------
 
@@ -306,7 +306,7 @@ PRINTING
 ----------------------------------------------------------
 
 PROCEDURE:
-* THE NAME OF THE DIVISION WHERE CODE IS EXECUTED
+* THE NAME OF THE DIVISION WHERE CODE IS EXECUTED.
 * PROCEDURE DIVISION.
 
 ----------------------------------------------------------
